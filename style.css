@@ -461,7 +461,7 @@ display: none;
     background-repeat: no-repeat;
     /* width: 100vw; */
     height: 600px;
-    background-image: url('/assets/images/main-image.png');
+    background-image: url('assets/images/main-image.png');
 }
 
 .hero-msg-container {
